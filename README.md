@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjh7141&layout=compact)](https://github.com/sjh7141)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sjh7141)](https://solved.ac/sjh7141)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=grim)](https://solved.ac/grim)
 
 <!--
 **sjh7141/sjh7141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
