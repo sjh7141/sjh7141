@@ -5,7 +5,7 @@
 
 </div>
 
-##### 🌱 I’m currently learning in SSAFY
+##### 🌱 I’m currently working at SK hynix
 ### Skill
 `Java` `C++` `Python` `Javascript` `Spring` `SpringBoot` `Vue.js`
 
